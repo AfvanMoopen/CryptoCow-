@@ -1,6 +1,5 @@
 # NFTIALIZE-
 
-# NFTIALIZE-
 
 Inspired from Cryptokitties. Brace !! fun  | | feed ohh Breed 
 
